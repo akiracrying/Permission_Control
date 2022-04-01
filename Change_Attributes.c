@@ -7,8 +7,7 @@
 #define CHANGE_FILE "Check.txt"
 #define FOREVER() for(;;)
 
-int main()
-{
+int main(){
 	enum
 	{
 		ADD = 1,
